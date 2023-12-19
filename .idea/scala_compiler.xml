@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="sbt 1" modules="postgres_datasource,postgresdatasource,postgresdatasource_4879,postgresdatasource_5501,spark-postgres-connector,spark_custom_connector" />
+  </component>
+</project>
